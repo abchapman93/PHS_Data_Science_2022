@@ -1,0 +1,32 @@
+
+
+
+     DATE: [**2741-5-16**] 1:46 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6824**]
+     Reason: please eval; thanks                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        62 year old man with lung ca now w/ sob.                                      
+     REASON FOR THIS EXAMINATION:
+      please eval; thanks                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Shortness of breath in a patient with known lung
+     cancer.
+     
+     Portable AP chest radiograph was compared to [**2741-4-29**].
+     
+     The patient's mediastinum has shifted markedly to the right.  On the current
+     chest x-rays the right hemithorax is almost completely opacified with more
+     prominent density in the lower portion of the right lung. Right pleural
+     effusion has been enlarged and is loculated.  Giving the new history of the
+     lung cancer, the above finding most probably represents almost complete
+     atelectasis of the lung due to obstructing mass with pleural effusion.  The
+     interstitial markings on the right are most probably related to the
+     lymphangitic spread of the tumor. This information was discussed with Dr. [**Last Name (STitle) 354**]
+     and further evaluation with chest CT was recommended.
+     
+     IMPRESSION: Complete opacification of right hemithorax  most probably
+     represents  atelectasis of the lung due to obstructing mass with
+     accompaning pleural effusion.
+

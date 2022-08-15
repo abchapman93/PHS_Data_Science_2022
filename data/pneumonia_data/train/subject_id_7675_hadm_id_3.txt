@@ -1,0 +1,32 @@
+
+
+
+     DATE: [**3388-5-16**] 8:20 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 773**]
+     Reason: Pt s/p L subclavian.  Assess for line placement and lack of 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old man with above.
+     REASON FOR THIS EXAMINATION:
+      Pt s/p L subclavian.  Assess for line placement and lack of pneumothorax.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Status post left subclavian catheter placement, check position.
+     
+     Single frontal chest radiograph dated [**3388-5-16**] is compared with prior chest
+     radiograph dated [**3388-5-10**].
+     
+     The left subclavian catheter is terminating in the left IJ. There is no
+     evidence of pneumothorax. The patient is status post mediansternotomy and
+     [**Location (un) 766**] rod placement. Multiple surgical clips are placed in the right
+     upper quadrant, indicative of previous surgery, probably cholecystectomy.
+     
+     The heart is of normal size. The mediastinal and hilar contours are stable
+     since the prior study. There is persistent opacification in the right lower
+     lung zone. The pulmonary vascularity is unremarkable. The extreme left
+     costophrenic angle is cut off. There is probable small right pleural effusion.
+     
+     IMPRESSION: The left subclavian catheter is terminating in the left IJ. No
+     pneumothorax. Persistent right lower lung zone opacification and probable
+     small effusion.
+

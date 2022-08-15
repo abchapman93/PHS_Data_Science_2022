@@ -1,0 +1,24 @@
+
+
+
+     DATE: [**2682-9-10**] 5:22 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12448**]
+     Reason: please assess for effusions/pneumonia                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            76 year old man with hypotension, vfib arrest, status post RIJ line   
+      placement and Swan.                             
+     REASON FOR THIS EXAMINATION:
+      please assess for effusions/pneumonia                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Patient with hypotension, cardiac arrest, RIJ line insertion.
+     
+     There is no appreciable change in the appearance of the chest since the last
+     chest xray at 5:41 PM on [**2682-9-9**]. There is no pneumothorax. There is a good
+     deal of opacification at the left base. The heart is normal in size. There is
+     pulmonary venous cephalization and probably a small effusion at the right base
+     as well. ETT, RIJ line, right subclavian line, and NGT are all unchanged.
+     
+     IMPRESSION: No change in the appearance of the chest over the past 12 hours.
+

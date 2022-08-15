@@ -1,0 +1,25 @@
+
+
+
+     DATE: [**2900-4-20**] 10:06 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13740**]
+     Reason: ? pulmonary edema                                           
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        84 year old man with chf, here w/ pedal edema sob, ARF.                       
+                
+     REASON FOR THIS EXAMINATION:
+      ? pulmonary edema                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  CHF with pedal edema.  Acute renal failure.
+     
+     COMPARISON:  [**2900-4-20**].
+     
+     AP UPRIGHT CHEST:  Right IJ central venous line is unchanged in position at
+     the junction of the brachiocephalic vein.  There are small effusions and
+     slight improvement in overall appearance of CHF with cardiomegaly.
+     
+     IMPRESSION:  Slight improvement of CHF.
+

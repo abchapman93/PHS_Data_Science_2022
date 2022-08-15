@@ -1,0 +1,23 @@
+
+
+
+     DATE: [**2985-2-28**] 6:59 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 15859**]
+     Reason: 77 year old woman with acute SOB, likely airway obstruction 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with acute SOB, likely airway obstruction                     
+     REASON FOR THIS EXAMINATION:
+      77 year old woman with acute SOB, likely airway obstruction                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath.
+     
+     CHEST PA AND LATERAL:  Consolidation is seen in the left lower lobe.  The
+     heart size, mediastinal and hilar contours are unremarkable.  There are no
+     pleural effusions.  The pulmonary vascularity is normal.  No other pulmonary
+     consolidations are seen.  There is overinflation of the lungs with flattening
+     of diaphragms.
+     
+     IMPRESSION:  Left lower lobe pneumonia likely aspiration.  Emphysema.
+

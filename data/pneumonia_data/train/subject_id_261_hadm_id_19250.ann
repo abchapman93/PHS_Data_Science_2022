@@ -1,0 +1,4 @@
+T1	EVIDENCE_OF_PNEUMONIA 1159 1193	Bilateral pulmonary      opacities
+T2	EVIDENCE_OF_PNEUMONIA 928 980	There is left lower lobe      consolidation/collapse
+T3	EVIDENCE_OF_PNEUMONIA 983 1042	There is bilateral lower zone and mid zone      infiltrate.
+T4	PNEUMONIA_DOC_YES 8 13	DATE:

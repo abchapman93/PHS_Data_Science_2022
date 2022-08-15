@@ -1,0 +1,28 @@
+
+
+
+     DATE: [**3139-3-20**] 1:22 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3026**]
+     Reason: eval for PNA                                                
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       87 year old man with fever                                                     
+       
+     REASON FOR THIS EXAMINATION:
+      eval for PNA                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST OF [**3139-3-20**], WITH COMPARISON [**3139-2-22**]
+     
+     INDICATION:  Fever.
+     
+     The heart size is normal but demonstrates left ventricular configuration. 
+     Pulmonary vascularity is within normal limits allowing for supine positioning.
+     There is marked elevation of the right hemidiaphragm which is increased in
+     degree of elevation since the previous radiograph.  Adjacent opacity is noted
+     in the middle and lower lobe.  The presence of volume loss favors atelectasis.
+     Additional patchy opacity is seen in the left retrocardiac region, and may be
+     due to atelectasis or pneumonia.  Followup radiographs are suggested.
+                                                                           
+

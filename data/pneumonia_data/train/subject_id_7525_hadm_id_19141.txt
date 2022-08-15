@@ -1,0 +1,30 @@
+
+
+
+     DATE: [**2558-7-16**] 10:56 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 58**] # [**Clip Number (Radiology) 15282**]
+     Reason: eval for ETT placement following transfer                   
+     Admitting Diagnosis: STRIDOR;NEUTROPENIA;FEVER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        66 year old woman with mestastatic cancer now with fevers s/p intubation - 
+      would like to confirm ett placement following transfer                    
+     REASON FOR THIS EXAMINATION:
+      eval for ETT placement following transfer                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Intubation in a patient with fever and known
+     metastatic cancer.
+     
+     Portable AP chest radiograph compared to previous one made the same day
+     earlier at 19:59 p.m.
+     
+     The ET tube tip in good position 3.5 cm above the carina.  The left subclavian
+     line tip is in distal superior vena cava, unchanged.  There is marked
+     improvement of the bilateral consolidations, especially on the right. The NG
+     tube tip is coiled in the stomach.
+     
+     IMPRESSION:
+     1.  Standard position of ET tube, NG tube and left subclavian line.
+     2.  Resolution of the pulmonary edema.
+

@@ -1,0 +1,27 @@
+
+
+
+     DATE: [**3406-5-30**] 9:43 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13301**]
+     Reason: fx                                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with fz                                                       
+     REASON FOR THIS EXAMINATION:
+      fx                                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient with seizure.
+     
+     Low lung volumes.  Bilateral basilar opacities, considerably larger at the
+     left base than at the right.  There is widening of the superior mediastinum
+     and slight displacement of the trachea, which may represent an enlarged
+     thyroid.
+     
+     IMPRESSION:  Lung volumes with bilateral basilar opacities.
+     
+     Question substernal thyroid enlargement.
+     
+     Recommend followup chest x-ray.
+                                                                           
+

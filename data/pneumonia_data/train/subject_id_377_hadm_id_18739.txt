@@ -1,0 +1,30 @@
+
+
+
+     DATE: [**3016-2-16**] 4:06 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11348**]
+     Reason: to evaluate for pneumonia
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with history of emphysema with recent onset of seizures,
+      recently discharged from [**Hospital3 5323**] for pneumonia
+     REASON FOR THIS EXAMINATION:
+      to evaluate for pneumonia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of seizure and pneumonia.
+     
+     CHEST AP:  No prior studies are available for comparison. The heart is of
+     normal size. The mediastinal and hilar contours are unremarkable. There is
+     placement of ET tube and NG tube, both of which appear to be in good position.
+     Tip of NG tube is not well visualized.  No evidence of pneumothorax or pleural
+     effusion.  There is no focal consolidation noted.  There is evidence of patchy
+     opacity noted at the right base, consistent with atelectasis vs. pneumonia.
+     Visualized osseous structures are unremarkable.
+     
+     IMPRESSION:
+     
+     1. Ill-defined opacity at the right base, consistent with atelectasis vs.
+     early focus of pneumonia vs. aspiration.
+      Followup radiographs may be helpful.
+

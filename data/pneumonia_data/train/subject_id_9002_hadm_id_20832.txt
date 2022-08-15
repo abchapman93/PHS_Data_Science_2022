@@ -1,0 +1,28 @@
+
+
+
+     DATE: [**3346-10-31**] 4:35 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12462**]
+     Reason: pulmonary edema, infiltrate, acute change? LOCATION [**Hospital Ward Name 12463**] 4
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with CHF, AAA, here for outpatient colonoscopy, SOB, 
+      desaturated, ?flash pulmonary edema, now intubated in FICU 
+     REASON FOR THIS EXAMINATION:
+      pulmonary edema, infiltrate, acute change? LOCATION [**Hospital Ward Name 12463**] 4 ICU                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  59-year-old man with congestive heart failure who felt acutely
+     desaturated, question pulmonary edema.
+     
+     COMPARISON:  Chest x-ray dated [**3346-10-23**].
+     
+     AP PORTABLE SEMI-UPRIGHT CHEST RADIOGRAPH:  Again seen is a left-sided dual
+     lead pacemaker.  The endotracheal tube is 6.6 cm above the carina.  There are
+     new bilateral perihilar ill-defined opacities, consistent with acute pulmonary
+     edema.  There is also left lower lobe atelectasis.  There is moderate stable
+     cardiomegaly.
+     
+     IMPRESSION:  Acute pulmonary edema.
+                                                                           
+

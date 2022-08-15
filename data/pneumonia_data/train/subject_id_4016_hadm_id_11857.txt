@@ -1,0 +1,33 @@
+
+
+
+     DATE: [**2676-8-10**] 7:43 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14041**]
+     Reason: chf                                                         
+     Admitting Diagnosis: RESPIRATORY FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              72 year old woman with h/o COPD  and CHF with sudden onset SOB          
+                     
+     REASON FOR THIS EXAMINATION:
+      chf                                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of COPD and congestive heart failure, sudden onset
+     shortness of breath please evaluate for congestive heart failure.
+     
+     VIEWS:  Single AP portable semi-upright view, comparison dated [**8-8**] and
+     additional comparison made to [**2676-8-7**].
+     
+     FINDINGS:  Again noted is severe thoracic scoliosis.  The heart size and
+     mediastinal contour is unchanged.  No congestive heart failure.  A right-sided
+     pleural effusion is new since the examination of [**8-7**], with associated
+     linear opacity of the right base consistent with atelectasis.  No
+     pneumothorax.  Calcifications of the thoracic aorta are noted.  There has been
+     interval removal of the endotracheal tube and the nasogastric tube since the
+     next previous examination.
+     
+     IMPRESSION:  1)  New moderate right pleural effusion with associated
+     atelectasis of the right base.
+     2)  No congestive heart failure.
+

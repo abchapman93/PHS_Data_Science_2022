@@ -1,0 +1,23 @@
+
+
+
+     DATE: [**3353-1-10**] 5:35 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 1659**]
+     Reason: Patient with Hx NHL now febrile and neutropenic.  Question p
+     ICD9 code from order: 202.8
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       55 year old man with T cell lymphoma s/p auto BMT currently with fevers       
+     REASON FOR THIS EXAMINATION:
+      Patient with Hx NHL now febrile and neutropenic.  Question pneumonia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST 2 VIEWS PA & LATERAL:
+     
+     HISTORY: T cell lymphoma with bone marrow transplant and fever.
+     
+     Heart size is normal. The lungs are clear. No pleural effusions. Left sided
+     PICC line is in region of cavoatrial junction.
+     
+     IMPRESSION: No evidence for pneumonia. No change since prior study of [**12-13**], 05.
+

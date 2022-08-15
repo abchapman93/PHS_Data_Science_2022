@@ -1,0 +1,4 @@
+T1	EVIDENCE_OF_PNEUMONIA 1181 1220	Small focal opacity in right upper lobe
+T2	EVIDENCE_OF_PNEUMONIA 881 923	There is an area of      increased opacity
+T3	EVIDENCE_OF_PNEUMONIA 967 1028	In the right      upper lobe, there is a small focal opacity.
+T4	PNEUMONIA_DOC_YES 8 13	DATE:

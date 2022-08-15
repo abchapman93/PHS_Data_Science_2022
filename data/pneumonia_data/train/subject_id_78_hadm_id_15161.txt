@@ -1,0 +1,29 @@
+
+
+
+     DATE: [**2778-3-24**] 12:55 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1896**]
+     Reason: r/o pna                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old man with HIV admitted with MS changes, likely overdose, but can't 
+      r/o infection.
+     REASON FOR THIS EXAMINATION:
+      r/o pna                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST AP PORTABLE SINGLE VIEW.
+     
+     INDICATION: HIV, admitted with mental status changes, likely overdose but
+     possibility of infection must be considered. Evaluate for pulmonary changes.
+     
+     FINDINGS: There is probably mild to moderate cardiac enlargement with a
+     prominence of the left ventricular contour. Also the thoracic aorta appears
+     mildly widened considering patient's age. There is, however, no evidence of
+     pulmonary vascular congestion and no signs of acute infiltrates in this AP
+     single view portable examination. The lateral pleural sinuses are free and no
+     evidence of pneumothorax exists.
+     
+     IMPRESSION: Probably mild cardiac enlargement but no evidence of acute
+     infection or CHF.
+

@@ -1,0 +1,35 @@
+
+
+
+     DATE: [**3043-3-19**] 9:22 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10588**]
+     Reason: Please evaluate for infiltrates.                            
+     Admitting Diagnosis: METASTATIC MELANOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old man with melanoma metastatic, now with delirium.                    
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for infiltrates.                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Seventy-one-year-old male with metastatic melanoma and
+     altered mental status.
+     
+     TECHNIQUE:  Portable AP chest.
+     
+     COMPARISON:  Made to a CT of the chest, dated [**3043-3-11**].
+     
+     FINDINGS:
+     
+     Shallow inspiration.  Heart is at the upper limits of normal for size with the
+     left ventricular configuration.  Mediastinal contours are within normal
+     limits.  Known pulmonary nodules are not well seen.  There are minor dependent
+     atelectatic changes.  Lungs are otherwise grossly clear.  Osseous structures
+     are unremarkable.
+     
+     IMPRESSION:
+     
+     No radiographic evidence of pneumonia.
+     
+     
+

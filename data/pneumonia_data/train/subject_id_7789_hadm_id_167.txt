@@ -1,0 +1,27 @@
+
+
+
+     DATE: [**3200-7-10**] 8:57 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1794**]
+     Reason: Pt with multilobar pneumonia, CHF with worsening respiratory
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old woman with DM, ESRD                                                 
+     REASON FOR THIS EXAMINATION:
+      Pt with multilobar pneumonia, CHF with worsening respiratory status.            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Multilobar pneumonia and CHF, SOB. Diabetes, ESRD.
+     
+     AP BEDSIDE CHEST:  The heart is probably normal in size, although obscured by
+     bilateral pleural effusions, layering in semi-erect position.  There is a
+     vague density overlying the right upper lobe, suggesting air-space disease.
+     Bilateral prominence vascular interstitial markings.  Effusions are associated
+     with bibasilar atelectasis and I cannot exclude consolidation in the obscured
+     left lower lobe.  The vascular congestion, effusion, and right upper lobe
+     process have developed since normal chest film of [**3197-10-10**].
+     
+     IMPRESSION:  CHF/fluid overload.  Presumed right upper lobe pneumonia or other
+     air-space disease.
+     
+

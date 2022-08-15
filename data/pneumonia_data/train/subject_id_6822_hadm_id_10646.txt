@@ -1,0 +1,41 @@
+
+
+
+     DATE: [**2674-2-6**] 1:21 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8252**]
+     Reason: ?infiltrate                                                 
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        71 year old man with ICH, s/p intubation, OGT placement                       
+         
+     REASON FOR THIS EXAMINATION:
+      ?infiltrate                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  71-year-old male status post intubation and OGT placement.  Evaluate
+     for infiltrate and position of lines.
+     
+     Comparison is made to prior radiograph dated [**2674-2-4**].
+     
+     SINGLE PORTABLE SUPINE AP CHEST RADIOGRAPH.
+     
+     When compared to most recent radiograph, the nasogastric tube has been
+     advanced with its distal tip within the lower third of the esophagus and is
+     coiled within the lower pharynx.  Endotracheal tube remains in approximately 3
+     cm with from the carina with chin up. Right-sided subclavian central venous
+     catheter with its tip in the distal SVC. Mild bibasilar atelectasis and
+     probable small bilateral pleural effusions are unchanged and no focal
+     consolidations are noted.  There is no evidence of pulmonary edema or
+     pneumothorax.  Cardiomediastinal silhouette and hilar contours are stable in
+     appearance.
+     
+     IMPRESSION:
+     
+     1.  OGT tip within distal third of the esophagus, and coiled within the lower
+     pharynx.  Repositioning recommended.
+     
+     2.  ETT 3cm from carina in chin extension, mild pull-back recommended.
+     
+     Discussed with Dr. [**Last Name (STitle) 8253**] on date of exam at 1230pm
+

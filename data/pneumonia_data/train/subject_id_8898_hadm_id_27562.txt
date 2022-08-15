@@ -1,0 +1,32 @@
+
+
+
+     DATE: [**3461-2-11**] 5:57 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11468**]
+     Reason: eval interval progression                                   
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 year old man with AIDS, hypoxia, sepsis, known PE with progressing 
+      infiltrates.                           
+     REASON FOR THIS EXAMINATION:
+      eval interval progression                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  AIDS, hypoxia, sepsis and pulmonary embolism.
+     
+     IMPRESSION:  AP chest compared to [**2-9**]:
+     
+     Bilateral pleural effusions, moderate on the left and small on the right have
+     developed since [**2-9**] accompanied by asymmetric pulmonary edema,
+     obscuring the previously more discrete consolidation in the left upper and
+     right lower lung zones.  Heart is normal size.  Nodular opacities seen on the
+     chest CTA from [**2-9**], particularly at the right lung base have not been
+     apparent on plain radiographs.
+     
+     Tip of the right jugular line projects over the SVC.  No pneumothorax.
+     
+     Overall, findings are consistent with edema superimposed on pneumonia and
+     possible multifocal opportunistic infection.
+                                                                           
+

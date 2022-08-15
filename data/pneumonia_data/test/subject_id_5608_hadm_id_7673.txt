@@ -1,0 +1,28 @@
+
+
+
+     DATE: [**3124-1-22**] 11:35 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12605**]
+     Reason: eval for chf and tube placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with vomiting presented to [**Location (un) 12606**]. CT there showed left
+      cerebellar infarct. s/p adjustment of ET tube 
+     REASON FOR THIS EXAMINATION:
+      eval for chf and tube placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  80-year-old with vomiting.
+     
+     PORTABLE CHEST:  The cardiac silhouette is at the upper limits of normal for
+     size.  The hilar and mediastinal silhouettes are within normal limits for
+     size.  There is bilateral mild peribronchial thickening with increased
+     interstitial markings and perihilar haziness.  The costophrenic angles are
+     sharp.  There is an endotracheal tube with its tip approximately 3-4 cm above
+     the carina.  There is a nasogastric tube present with its tip in the body of
+     the stomach and its side hole in the esophagus.  There is bilateral
+     degenerative changes in the AC joint.
+     
+     IMPRESSION:  Increased interstitial markings with vascular haziness findings
+     consistent with congestive heart failure.
+

@@ -1,0 +1,34 @@
+
+
+
+     DATE: [**3060-1-8**] 3:40 PM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 8574**]
+     Reason: please eval for CHF/PNA                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           75 year old man with hypotension and recent V tach.                        
+     REASON FOR THIS EXAMINATION:
+      please eval for CHF/PNA                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  75-year-old male with hypertension and recent V-TACH.  Evaluate
+     for CHF or pneumonia.
+     
+     COMPARISONS:  Comparison is made to [**3059-12-21**].
+     
+     TECHNIQUE:  AP semi-upright single view of the chest.
+     
+     FINDINGS:  There is a left chest wall AICD biventricular pacer with leads in
+     unchanged position.  There is again noted cardiomegaly.  The heart size is
+     stable when compared to prior study.  There is interval increase in opacity
+     involving the entire right lung.  There are also more patchy opacities
+     involving the left mid and lower lung zones. There appears to be a left
+     pleural effusion. These findings could represent asymmetric pulmonary edema
+     Vs. an infectious process involving the right lung.
+     
+     IMPRESSION:
+     1.  Findings are most consistent with asymmetric pulmonary edema. However,
+     superimposed infection cannot be excluded.
+     2.  Left pleural effusion.
+     3.  Stable cardiomegaly.
+

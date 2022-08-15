@@ -1,0 +1,28 @@
+
+
+
+     DATE: [**2645-11-23**] 3:20 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 3**] # [**Clip Number (Radiology) 8410**]
+     Reason: ?ETT placement                                              
+     Admitting Diagnosis: S/P FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        84 year old woman with syncope with high degree block now for temp wire   
+      placement.
+     REASON FOR THIS EXAMINATION:
+      ?ETT placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST
+     
+     HISTORY:  Repositioning of ET tube.
+     
+     CHEST:  A single portable supine view is compared to previous exam earlier
+     from the same date.  Since the previous exam, the endotracheal tube has been
+     pulled back, now its tip is at the level of T3 and approximately 1.5 cm
+     proximal to the carina.  The appearance of the lungs remains stable.  There is
+     slight further resolution of the pulmonary edema.  Again, note is made of left
+     basilar and paracardiac atelectasis and small left pleural effusion.
+     Cardiomegaly.  The NG-tube remains in place.
+
+             DR. [**First Name (STitle) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]

@@ -1,0 +1,23 @@
+
+
+
+     DATE: [**3131-4-22**] 12:51 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 324**]
+     Reason: line placement - Pt in PACU WEST                            
+     Admitting Diagnosis: LIVER FAILURE;S/P TIPS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old woman with dec BP, dec HCT with new RIJ                             
+     REASON FOR THIS EXAMINATION:
+      line placement - Pt in PACU WEST                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY;  Line placement.
+     
+     AP UPRIGHT CHEST:  Compared with [**3131-4-14**], a new right subclavian central
+     venous catheter is just below the cavoatrial junction.  No pneumothorax.  No
+     vascular congestion or pleural effusions on this lordotic view.  The cardiac
+     and mediastinal contours are stable.  No focal infiltrates.
+     
+     IMPRESSION:  Satisfactory placement of right central venous catheter.
+

@@ -1,0 +1,32 @@
+
+
+
+     DATE: [**2863-2-11**] 7:30 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7647**]
+     Reason: assess for interval changes                                 
+     Admitting Diagnosis: CORONARY ARTERY DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       78 year old woman with tamponade, s/p pericardial drain placement, now with  
+      desat, increased O2 requirement.
+     REASON FOR THIS EXAMINATION:
+      assess for interval changes                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST ONE VIEW PORTABLE.
+     
+     INDICATION:  78 year old woman with tamponade status post pericardial drain.
+     
+     COMMENT:  A portable AP radiograph of the chest is reviewed, and compared with
+     the previous study of [**2863-2-9**].
+     
+     The patient is status post placement of a pericardial drain, which is again
+     seen.  There is increased moderate-to-severe congestive heart failure with
+     cardiomegaly and increased bilateral pleural effusion.  Bibasilar patchy
+     atelectasis is also increased.  No pneumothorax is identified.
+     
+     IMPRESSION:  Status post placement of the pericardial drain.  Increased
+     congestive heart failure with cardiomegaly and increased bilateral pleural
+     effusion.
+     
+

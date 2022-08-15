@@ -1,0 +1,32 @@
+
+
+
+     DATE: [**3352-6-23**] 7:18 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1630**]
+     Reason: baseline pre chemo, please check for pneumonia and line plac
+     Admitting Diagnosis: NON-HODGKIN'S LYMPHOMIA\BONE MARROW TRANSPLANT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       54 year old man with NHL here for auto BMT
+     REASON FOR THIS EXAMINATION:
+      baseline pre chemo, please check for pneumonia and line placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 54 year old man with non-Hodgkins lymphoma here for a bone marrow
+     transplant. Assess line placement and check for pneumonia prior to initiating
+     chemotherapy.
+     
+     COMPARISON: [**3352-6-6**].
+     
+     FINDINGS: AP portable chest radiograph demonstrates the left sided central
+     venous catheter has been removed. There is a dual lumen Hickman catheter
+     entering from the right with its tip in the distal SVC. There is no change in
+     the position of this catheter. There are no pulmonary infiltrates or pleural
+     effusions. There is an ovoid structure in the right lung presumably
+     projectional difference from the patient's rib or summation of structures with
+     scapular tip.
+     
+     IMPRESSION: No pneumonia. Unusual ovoid density in the right mid lung zone
+     presumably due to summation of structures. Recommend attention to this area on
+     followup radiographs.
+

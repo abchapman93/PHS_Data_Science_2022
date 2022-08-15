@@ -1,0 +1,22 @@
+
+
+
+     DATE: [**3367-1-21**] 1:19 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11534**]
+     Reason: s/pintubation in field eval tube position.                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      s/pintubation in field eval tube position.                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Intubated.
+     
+     PORTABLE CHEST. No comparisons. The ETT is approximately 3 cm above the
+     carina. The NG tube is seen extending below the diaphragm, but the tip is not
+     imaged, probably in the stomach. No pleural effusions, pneumothorax, pulmonary
+     edema, or focal infiltrates. No cardiomegaly.
+     
+     IMPRESSION: Satisfactory ETT placement.
+

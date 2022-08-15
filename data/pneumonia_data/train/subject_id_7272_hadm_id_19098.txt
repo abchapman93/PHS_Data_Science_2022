@@ -1,0 +1,31 @@
+
+
+
+     DATE: [**2699-1-5**] 12:25 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12728**]
+     Reason: + sob. + rales. rr 35. and hypertensive
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with htn and recent sob
+     REASON FOR THIS EXAMINATION:
+      + sob. + rales. rr 35. and hypertensive
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST X-RAY
+     
+     CLINICAL INDICATION: 70 year old woman with shortness of breath and rales.
+     
+     A single frontal 70 degree upright radiograph of the chest was obtained and
+     compared to the next prior study from [**2699-1-4**].
+     
+     The lung volumes are low.  Prominence of the pulmonary vascularity remains,
+     consistent with left heart failure.  There is obscuration of the
+     hemidiaphragms bilaterally consistent with bilateral pleural effusions.  The
+     overall heart size is difficult to assess.  There is dense retrocardiac
+     opacity, possibly secondary to collapse and/or consolidation in the left lower
+     lobe.  There is also a right lower lobe and middle lobe opacity consistent
+     with collapse and/or consolidation.
+     
+     IMPRESSION: Persistent left heart failure with bilateral pleural effusions.
+     Collapse and/or consolidation at the bases bilaterally.
+

@@ -1,0 +1,33 @@
+
+
+
+     DATE: [**2924-4-10**] 4:58 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 3**] # [**Clip Number (Radiology) 14568**]
+     Reason: fever, please eval                                          
+     Admitting Diagnosis: RIGHT LUNG CANCER/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               83 year old man s/p VATS w/ R mediastinal mass/resp 
+      distress/pneumoplacement         
+     REASON FOR THIS EXAMINATION:
+      fever, please eval                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE AP CHEST
+     
+     INDICATION:  83-year-old man status post VATS with right mediastinal [**Hospital 14569**] distress, please eval.  There is no pneumothorax identifiable on
+     the right.
+     
+     FINDINGS:  The patient has a right chest tube.  In the interval time from
+     [**2924-4-10**] at 05:35, there has been development of subcutaneous air on the
+     right.  The right pleural effusion is slightly larger.  A tiny pleural
+     effusion is unchanged.  Left lower lobe atelectasis is unchanged.  Heart size
+     and the mediastinal contours are normal.  The patient is status post median
+     sternotomy and CABG.  Right jugular tip projects over the SVC and the
+     nasogastric tube tip projects over the stomach.  ET tube is 4 cm above the
+     carina.
+     
+     IMPRESSION:  No evidence for pneumothorax, interval development of right
+     subcutaneous air.
+                                                                           
+

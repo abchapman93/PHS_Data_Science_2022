@@ -1,0 +1,28 @@
+
+
+
+     DATE: [**3202-1-22**] 8:55 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12131**]
+     Reason: eval for degree of CHF                                      
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       74 year old woman with copd, AS, chf                                           
+     REASON FOR THIS EXAMINATION:
+      eval for degree of CHF                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  CHF followup.  SOB.
+     
+     PORTABLE AP CHEST: Comparison is made to previous films from  [**3202-1-19**].
+     
+     FINDINGS:  Allowing for differences in technique, there is slight improvement
+     of the CHF pattern with less prominence of the pulmonary vascularity. There
+     is continued bibasilar and left lateral pleural thickening which probably
+     represents bilateral effusions with a loculated component of the left
+     effusion. There is stable cardiomegaly.
+     
+     A right PICC remains in position with its tip in the SVC.
+     
+     IMPRESSION:   Slight improvement of the CHF pattern.
+

@@ -1,0 +1,34 @@
+
+
+
+     DATE: [**2916-3-11**] 5:09 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12317**]
+     Reason: evaluate for infiltrate, edema                              
+     Admitting Diagnosis: FEVER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old woman h/o sepsis, C.diff, now with tachypnea.                      
+                                         
+     REASON FOR THIS EXAMINATION:
+      evaluate for infiltrate, edema                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  [**Age over 90 **]-year-old female with sepsis and C. diff, now with tachypnea.
+     
+     PORTABLE SEMI-UPRIGHT CHEST RADIOGRAPH:  Comparison made to multiple prior
+     chest radiographs dating back to [**2916-2-16**].  The patient is markedly rotated,
+     limiting evaluation. Allowing for rotational differences, cardiomediastinal
+     contours are unchanged since [**2916-3-10**].  Left-sided PICC line terminates with
+     its tip overlying the distal SVC.  Moderate layering left-sided pleural
+     effusion has increased. Small right pleural effusion has also increased in
+     size. Retrocardiac opacity is also increased, and although positional
+     differences may account for some of the increased opacity, this area remains
+     suspicious for an area of focal consolidation.
+     
+     IMPRESSION:
+     1.  Moderate sized layering left pleural effusion, and small right pleural
+     effusion, both increased from [**2916-3-10**].
+     2.  Increase in size and density of retrocardiac opacity, which may be
+     related to technical differences, but this area remains suspicious for
+     underlying consolidation or atelectasis.
+

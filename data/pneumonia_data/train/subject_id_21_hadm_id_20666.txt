@@ -1,0 +1,27 @@
+
+
+
+     DATE: [**3138-10-29**] 8:30 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 129**] # [**Clip Number (Radiology) 3006**]
+     Reason: eval of chest pain                                          
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       87 year old man with dyspnea, ESRD                                             
+       
+     REASON FOR THIS EXAMINATION:
+      eval of chest pain                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST ONE VIEW PORTABLE
+     
+     INDICATION:  87-year-old man with dyspnea and end-stage renal disease.
+     
+     COMMENTS:  Portable erect AP radiograph of the chest is reviewed, and compared
+     with the previous study at 9:38 a.m.
+     
+     There is continued mild-to-moderate congestive heart failure with mild
+     cardiomegaly and small pleural effusion.  Patchy atelectasis is seen in both
+     lower lobes.  The lung volume is small.  No pneumothorax is identified.
+                                                                           
+

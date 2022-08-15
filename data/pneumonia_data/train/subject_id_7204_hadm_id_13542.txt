@@ -1,0 +1,28 @@
+
+
+
+     DATE: [**2616-12-10**] 5:27 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11900**]
+     Reason: assess interval change                                      
+     Admitting Diagnosis: TRACHEAL OBSTRUCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       80 year old woman with COPD, pneumonia, tracheomalacia s/p LMSB stent removal. 
+       Please assess interval change. 
+     REASON FOR THIS EXAMINATION:
+      assess interval change                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Assess for change COPD, pneumonia, tracheomalacia, and post left
+     main stem stent removal.
+     
+     COMPARISON:  [**2616-12-9**].
+     
+     AP chest:  The ET tube is in the mid-trachea.  The left IJ catheter tip
+     overlies the brachiocephalic/SVC junction.  The NG tube courses below the
+     diaphragm.  There has been interval worsening of the left lower lobe opacity.
+     There is a small left pleural effusion.  No pneumothorax.
+     
+     IMPRESSION:
+     Worsening consolidation in the left lower lobe.
+

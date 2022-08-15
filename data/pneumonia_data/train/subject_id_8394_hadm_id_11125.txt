@@ -1,0 +1,24 @@
+
+
+
+     DATE: [**3039-12-21**] 2:10 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7329**]
+     Reason: evaluate for pneumonia, ett position                        
+     Admitting Diagnosis: ICH;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with cerebral hemorrhage, intubated                           
+     REASON FOR THIS EXAMINATION:
+      evaluate for pneumonia, ett position                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Cerebral hemorrhage, patient intubated, evaluate for
+     pneumonia.
+     
+     CHEST:  The tip of the endotracheal tube lies 5 cm from the carinal angle. 
+     Nasogastric tube is present in satisfactory position.  The lung fields are
+     clear.  There is no evidence of pneumonia or failure.
+     
+     IMPRESSION:  No pneumonia.  Endotracheal tube position satisfactory.
+                                                                           
+

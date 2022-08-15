@@ -1,0 +1,34 @@
+
+
+
+     DATE: [**3477-6-11**] 12:12 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10285**]
+     Reason: assess for free air                                         
+     Admitting Diagnosis: RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY;HYPERGLYCEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with ? of colonic mass                                        
+     REASON FOR THIS EXAMINATION:
+      assess for free air                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Colonic mass, rule out free air.
+     
+     PA AND LATERAL CHEST:  Compared to [**3477-6-6**] and abdominal CT of [**3477-6-7**].  Low
+     lung volumes bilaterally.  The mediastinal and hilar contours are
+     unremarkable.  There is patchy opacity at the left lower lobe representing
+     either atelectasis or consolidation.  No definite free air is identified,
+     however, there is a subtle linear lucency underlying the medial aspect of the
+     right hemidiaphragm, and free air cannot be definitively excluded on this
+     study.  A left lateral decubitus film is recommended.  Moderate gastric
+     distention and a slight prominence of multiple air filled loops of bowel,
+     incompletely evaluated on this CXR exam.
+     
+     IMPRESSION:
+     1) Subtle linear lucency under the medial aspect of the right hemidiaphragm. A
+     left lateral decubitus film is recommended to exclude the possibility of free
+     intraperitoneal air.
+     2) Left lower lobe atelectasis/consolidation.
+     3) Moderate gastric distention with multiple mildly dilated bowel loops.
+     
+

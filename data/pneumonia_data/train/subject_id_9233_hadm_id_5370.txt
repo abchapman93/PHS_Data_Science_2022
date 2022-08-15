@@ -1,0 +1,31 @@
+
+
+
+     DATE: [**3287-4-16**] 7:33 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14455**]
+     Reason: r/o pneu                                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        82 year old woman with hypotension                                            
+     REASON FOR THIS EXAMINATION:
+      r/o pneu                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypotension.
+     
+     CHEST X-RAY, PORTABLE AP:  An endotracheal tube is present which lies
+     immediately below the thoracic inlet, 3 cm from the carina.  There is a right
+     internal jugular central venous line with tip in the mid superior vena cava. A
+     nasogastric tube is present which passes below the level of the diaphragm.
+     Linear opacities are present at the right lung base, adjacent to the right
+     cardiac border.  This is likely consistent with atelectasis.  No infiltrates
+     or consolidations are present.  There is no pneumothorax.  Slight blunting is
+     present at the right lung base, likely consistent with a small amount of
+     pleural fluid.  The osseous structures are unremarkable.
+     
+     IMPRESSION:
+     
+     1) Tubes and lines as described above.
+     
+     2) No acute infiltrate or consolidation.
+

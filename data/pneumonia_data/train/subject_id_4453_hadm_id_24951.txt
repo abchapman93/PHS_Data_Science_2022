@@ -1,0 +1,22 @@
+
+
+
+     DATE: [**2804-3-10**] 11:09 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2037**]
+     Reason: Evaluate placement of PA catheter                           
+     Admitting Diagnosis: PULMONARY EDEMA,AORTIC STENOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        75 year old woman with critical AS, now intubated and febrile                 
+     REASON FOR THIS EXAMINATION:
+      Evaluate placement of PA catheter                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Critical aortic stenosis, now intubated and febrile.
+     
+     Portable AP chest.  ET tube and Swan-Ganz and NG tube are unchanged.
+     Cardiomediastinal silhouette is stable compared to the prior radiograph
+     obtained yesterday.  Left-sided effusion and pulmonary edema are unchanged.
+     
+     IMPRESSION:  No short interval change.
+

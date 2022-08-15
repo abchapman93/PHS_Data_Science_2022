@@ -1,0 +1,27 @@
+
+
+
+     DATE: [**2580-2-2**] 5:13 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 1317**]
+     Reason: pt sob and congested
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with sob and congestion
+     REASON FOR THIS EXAMINATION:
+      pt sob and congested
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  Dyspnea and congestion.
+     
+     CHEST, AP AND LATERAL:  The heart size is normal.  There is no pulmonary
+     vascular congestion.  The interlobar fissures are slightly thickened.  There
+     is no parenchymal consolidation or pleural effusion.  There is an ill-defined
+     density projecting over the right lung base on the frontal view, likely due to
+     summation of shadows.  Degenerative changes are noted within the spine.
+     
+     IMPRESSION:
+     1) Density at right lung base likely representing summation of structures.
+     Comparison with prior exams is suggested.  In the absence of prior studies,
+     this may be easily evaluated fluoroscopically.
+     2) No pneumonia.
+

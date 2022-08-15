@@ -1,0 +1,41 @@
+
+
+
+     DATE: [**2993-7-25**] 4:58 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6033**]
+     Reason: assess for infiltrate                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      35 year old man with s/p cardiac arrest                                         
+     REASON FOR THIS EXAMINATION:
+      assess for infiltrate                                                           
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 6034**] [**Doctor First Name 141**] [**2993-7-25**] 5:28 PM
+      1.  ETT 1.5 cm above the carina, consider withdrawal by 2-3 cm.
+      2.  Marked gaseous distention of the stomach.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  35-year-old, status post cardiac arrest.  Evaluate for
+     infiltrate.
+     
+     COMPARISON:  None.
+     
+     AP CHEST RADIOGRAPH:  There is an ET tube, with the tip positioned in the
+     lower trachea, approximately 1.5 cm above the carina.  The heart and
+     mediastinal contours are within normal limits accounting for the supine
+     position.  The lungs are clear.  There is mild prominence of pulmonary
+     vasculature, which may reflect low lung volumes.  No pleural effusion or
+     pneumothorax is seen.  The osseous structures are within normal limits, no
+     fractures are identified.  There is a large amount of air within the stomach.
+     
+     AP PELVIS RADIOGRAPH:  Overlying structures on the trauma board obscure
+     underlying detail.  The osseous structures are normal in appearance.  There is
+     no evidence of fracture.  Hip joints are normal.  The sacroiliac joints and
+     pubic symphysis are not widened.  The bowel gas pattern is within normal
+     limits.
+     
+     IMPRESSION:
+     1.  The ET tube tip is positioned in the lower trachea, approximately 1.5 cm
+     above the carina.  Withdrawal by 2-3 cm should be considered.
+     2.  There is a large amount of air within the stomach.
+

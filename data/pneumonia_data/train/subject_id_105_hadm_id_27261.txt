@@ -1,0 +1,24 @@
+
+
+
+     DATE: [**2966-2-26**] 2:47 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5275**]
+     Reason: eval for CHF                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      35 year old woman with SVT                                                      
+     REASON FOR THIS EXAMINATION:
+      eval for CHF                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  35-year-old female with supraventricular tachycardia.
+     COMPARISON:  AP upright and lateral chest x-ray dated [**2961-11-21**].
+     
+     AP SUPINE PORTABLE CHEST X-RAY:  The cardiac silhouette is upper limits of
+     normal, possibly related to AP technique.  The mediastinal and hilar contours
+     are normal.  The pulmonary vasculature is normal and there is no pneumothorax
+     on this supine radiograph.  A consolidation with air bronchograms in the left
+     lower lobe is new.  No right-sided consolidations or effusions are noted.
+     
+     IMPRESSION:  Left lower lobe process suggesting pneumonia.
+

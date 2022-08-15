@@ -1,0 +1,43 @@
+
+
+
+     DATE: [**2644-1-17**] 6:37 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12564**]
+     Reason: NGT placement                                               
+     Admitting Diagnosis: HEAD BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with SAH                                                      
+     REASON FOR THIS EXAMINATION:
+      NGT placement                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  A [**Age over 90 **]-year-old woman with SAH.  Nasogastric tube placement.
+     
+     TECHNIQUE:  Portable AP chest radiograph.
+     
+     There is no previous chest radiograph for comparison.
+     
+     FINDINGS:
+     
+     The patient is status post median sternotomy.  Scoliosis is noted.  The
+     patient is rotated.
+     
+     Note is made of mild cardiomegaly.  Note is made of rounded opacity overlying
+     the left hilum, which probably representing aspiration pneumonia; however,
+     left hilar mass cannot be totally excluded.  Mild CHF is noted.  No
+     pneumothorax is noted.  Nasogastric tube is coursing down below the left
+     hemidiaphragm.
+     
+     IMPRESSION:
+     
+     Cardiomegaly and mild CHF.  Nasogastric tube as described above.  Rounded
+     opacity overlying the left hilum, which probably representing aspiration
+     pneumonia; however, left hilar mass cannot be totally excluded.  Please
+     confirm resolution by repeated chest x-ray after treatment, and if the lesion
+     persists, please evaluate by CT scan.
+     
+     The information is communicated with the referring physician, [**Last Name (NamePattern4) 337**]. [**First Name8 (NamePattern2) 12565**] [**Last Name (NamePattern1) 12566**]
+     by telephone in the morning of [**2644-1-17**].
+                                                                           
+

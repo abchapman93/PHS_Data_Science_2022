@@ -1,0 +1,27 @@
+
+
+
+     DATE: [**2656-2-10**] 2:20 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 40**] # [**Clip Number (Radiology) 41**]
+     Reason: assess ptx                                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       74 year old man withline attempt                                               
+     REASON FOR THIS EXAMINATION:
+      assess ptx                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  74-year-old man status post central line placement attempt.
+     
+     COMPARISON:  Chest of [**2656-2-10**] and CT torso of [**2656-2-10**].
+     
+     Again demonstrated is an endotracheal tube approximately 7 cm above the carina
+     in appropriate position.  The nasogastric tube coils over the upper abdomen
+     with tip projecting over the right upper quadrant presumably within the
+     stomach or duodenum.  There has been interval removal of the temporary
+     pacemaker wire.  Heart size and mediastinal contours are unchanged and are
+     normal.  The lungs remain clear.  There is no evidence of pneumothorax or
+     pleural effusion.
+     
+     IMPRESSION: Tubes and lines as described. No pneumothorax.
+

@@ -1,0 +1,5 @@
+T1	EVIDENCE_OF_PNEUMONIA 1449 1546	Multilobar consolidation, which could reflect asymmetrical edema and/or      multilobar pneumonia
+T2	EVIDENCE_OF_PNEUMONIA 1082 1138	There are multifocal areas of      consolidation present
+T3	EVIDENCE_OF_PNEUMONIA 1188 1226	there      is a more confluent opacity
+T4	EVIDENCE_OF_PNEUMONIA 1263 1320	Collapse/consolidation of right middle lobe is also noted
+T5	PNEUMONIA_DOC_YES 8 13	DATE:

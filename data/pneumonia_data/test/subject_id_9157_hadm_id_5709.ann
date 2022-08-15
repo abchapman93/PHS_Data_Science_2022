@@ -1,0 +1,5 @@
+T1	EVIDENCE_OF_PNEUMONIA 1039 1124	of patchy opacities in the right lower lobe, which can      represent early pneumonia
+T2	EVIDENCE_OF_PNEUMONIA 1357 1439	Patchy opacity in the right lower lobe, which probably representing      pneumonia
+T3	EVIDENCE_OF_PNEUMONIA 1127 1168	Opacity overlying the right apex is noted
+T4	EVIDENCE_OF_PNEUMONIA 1522 1554	Opacity overlying the right apex
+T5	PNEUMONIA_DOC_YES 8 14	DATE: 

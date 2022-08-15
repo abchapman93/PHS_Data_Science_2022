@@ -1,0 +1,4 @@
+T1	EVIDENCE_OF_PNEUMONIA 858 952	increased nodular and linear opacities involving the right      upper lobe and left lower lobe
+T2	EVIDENCE_OF_PNEUMONIA 1045 1126	worrisome for chronic infection      including fungus or microbacterial infection
+T3	EVIDENCE_OF_PNEUMONIA 1233 1308	patchy      opacity in the left lower lobe could represent bronchopneumonia
+T4	PNEUMONIA_DOC_YES 8 13	DATE:

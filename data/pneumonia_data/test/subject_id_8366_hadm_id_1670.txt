@@ -1,0 +1,35 @@
+
+
+
+     DATE: [**3133-2-10**] 8:58 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 7135**]
+     Reason: ? resolution of ptx.                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           71 year old man with pneumonia, copd, chf, continued oxygen requirement 
+      s/p  VATs with lung bx and chest tube placement x2     
+     REASON FOR THIS EXAMINATION:
+      ? resolution of ptx.                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TWO VIEW CHEST, [**3133-2-10**]:
+     
+     CLINICAL INDICATION:  Pneumothorax.
+     
+     Two chest tubes remain in place in the right hemithorax.  No pneumothorax is
+     identified.  There is persistent mild volume loss in the right hemithorax with
+     slight rightward shift of the mediastinal structures.  There has been interval
+     improved aeration at the left lung base.  There remains increased opacity in
+     the right lower lobe predominantly in the retrocardiac region as well as some
+     increased patchy opacity in the right mid lung zone.  There are probable small
+     bilateral pleural effusions.
+     
+     Attenuation of pulmonary vasculature in the upper lobes is consistent with the
+     provided history of emphysema.
+     
+     IMPRESSION:
+     1)  No evidence of pneumothorax.
+     2)  Right mid and right lower lung zone opacities are unchanged, and are
+     probably related to the previously provided history of pneumonia.
+     3)  Improving aeration in left lung base.
+

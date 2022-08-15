@@ -1,0 +1,25 @@
+
+
+
+     DATE: [**2904-8-20**] 4:47 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4640**]
+     Reason: eval for CHF, infiltrate                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with SOB, fever                                               
+     REASON FOR THIS EXAMINATION:
+      eval for CHF, infiltrate                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath and fever.
+     
+     COMPARISON:  [**2904-6-25**].
+     
+     FINDINGS:  Portable chest radiograph reviewed.  Cardiomegaly is stable.  There
+     is atherosclerotic calcification of the aortic knob.  The left diaphragmatic
+     border is effaced, but this appearance is unchanged from [**2903**].  Pulmonary
+     vasculature is stable.
+     
+     IMPRESSION:  Stable appearance of the chest without acute pulmonary process.
+                                                                           
+

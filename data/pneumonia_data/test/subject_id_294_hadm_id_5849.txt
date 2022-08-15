@@ -1,0 +1,28 @@
+
+
+
+     DATE: [**3249-12-28**] 4:08 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5888**]
+     Reason: pre-op                                                      
+     Admitting Diagnosis: S/P MI;ISCHEMIC LEFT LEG
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with s/p NSTEMI and stents                                      
+     REASON FOR THIS EXAMINATION:
+      pre-op                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  A 78-year-old man with status post NSTEMI and stents.
+     
+     FINDINGS:
+     
+     A frontal film is provided.  Part of the left chest was not included in the
+     study.  There was no evidence of lung abnormalities.  There was no evidence of
+     consolidation, congestion, or effusions (on the right side).  The cardiac
+     silhouette is not enlarged.
+     
+     IMPRESSION:
+     
+     Limited study due to noninclusion of a portion of the left chest.  Otherwise,
+     unremarkable study.
+

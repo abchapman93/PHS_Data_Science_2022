@@ -1,0 +1,25 @@
+
+
+
+     DATE: [**3368-3-20**] 11:46 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2871**]
+     Reason: fever, hypoxia, tachypnea- s/p AKA one week ago
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with 
+     REASON FOR THIS EXAMINATION:
+      fever, hypoxia, tachypnea- s/p AKA one week ago
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fever, hypoxia, tachypnea.
+     
+     COMPARISON:  [**3368-3-9**].
+     
+     SINGLE VIEW CHEST, AP:  There has been interval opacification within the left
+     lower lobe consistent with consolidation.  The pulmonary vasculature is within
+     normal limits.  The cardiac, mediastinal and hilar contours are unchanged with
+     unfolding of the aorta and wall calcifications.  There may be a left-sided
+     pleural effusion also.
+     
+     IMPRESSION:  Left lower lobe pneumonia.
+

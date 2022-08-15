@@ -1,0 +1,38 @@
+
+
+
+     DATE: [**2623-2-13**] 2:12 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1237**]
+     Reason: eval for desat                                              
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;PVD\CATH AND L SFA INTERVENTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman s/p cath and iliac stent                                      
+     REASON FOR THIS EXAMINATION:
+      eval for desat                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  An 80-year-old woman with iliac stent.  Desaturation.
+     
+     TECHNIQUE:  Portable AP chest radiograph.
+     
+     There is no previous chest radiograph for comparison.
+     
+     FINDINGS:
+     
+     The heart is normal in size.  The mediastinal and hilar contours are within
+     normal limits.  Note is made of mild congestive heart failure.  Parenchymal
+     consolidation is noted in left lower lobe, associated with bilateral small
+     effusion.  Note is made of bilateral apical pleural thickening, probably
+     associated with emphysema.
+     
+     IMPRESSION:
+     
+     1. Mild CHF.
+     2. Left lower lobe consolidation with effusion, probably representing
+     pneumonia.
+     3. Bilateral pleural thickening with faint opacity in bilateral upper lobes,
+     which represent post-radiation change, as the patient has a history, or prior
+     tuberculosis infection or other parenchymal process, which needs clinical
+     correlation and comparison with the prior study.
+

@@ -1,0 +1,25 @@
+
+
+
+     DATE: [**2656-8-4**] 11:46 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8763**]
+     Reason: central line                                                
+     Admitting Diagnosis: C7 FRACTURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      central line                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Central line placement.
+     
+     CHEST AP:  The tip of the left subclavian line is in the mid-SVC.  There is
+     slight prominence of the left ventricle.  The mediastinal and hilar contours
+     are unremarkable.  The lungs are clear.  There are no pleural effusions.  The
+     pulmonary vascularity is normal.  Surrounding soft tissues and osseous
+     structures appear unremarkable.
+     
+     IMPRESSION:  Satisfactory position of the left subclavian line without
+     evidence of pneumothorax.
+

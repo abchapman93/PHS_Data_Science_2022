@@ -1,0 +1,33 @@
+
+
+
+     DATE: [**3141-6-27**] 3:54 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10797**]
+     Reason: eval for chf                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with cp/sob                                                   
+     REASON FOR THIS EXAMINATION:
+      eval for chf                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  69-year-old woman with chest pain and shortness of breath.
+     Evaluate for CHF.
+     
+     COMPARISONS:  No comparisons are available.
+     
+     TECHNIQUE:  AP upright single view of the chest.
+     
+     FINDINGS:  There is a right IJ central line with the tip in the right atrium.
+     The heart appears to be enlarged for technique.  There are multiple nodular
+     opacities in the lungs bilaterally consistent with metastasis in this patient
+     with known metastasis.  There are low lung volumes what limits the evaluation
+     of the lungs. Visualized osseous structures are unremarkable. There is a G-
+     tube within the region of the stomach.  There are degenerative changes of the
+     right acromioclavicular joint.
+     
+     IMPRESSION:
+     1)  Multiple lung nodules consistent with metastasis.
+     2)  Right IJ central line with the tip in the right atrium.  There is no
+     evidence of pneumothorax.
+

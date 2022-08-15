@@ -1,0 +1,32 @@
+
+
+
+     DATE: [**2721-2-22**] 5:33 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5179**]
+     Reason: assess for consolidation                                    
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         55 year old woman with gi bleed now with tachypnea and hypoxia               
+                                         
+     REASON FOR THIS EXAMINATION:
+      assess for consolidation                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  55-year-old woman with gastrointestinal bleeding with tachypnea
+     and hypoxia.
+     
+     CHEST, AP PORTABLE:  Comparison is made to [**2721-2-22**].  The patient is
+     now intubated, and the tip of the endotracheal tube lies in the right mainstem
+     bronchus.  The left lung is a newly opacified with mediastinal shift to the
+     left, consistent with left lung collapse. There is new pulmonary edema on the
+     right. There is no pneumothorax.
+     
+     IMPRESSION:
+     1.  Interval intubation with right mainstem bronchus intubation, with
+     new left lung collapse. Retraction by at least 4 cm is recommended.
+     2.  Pulmonary edema in the right lung.
+     
+     The findings were discussed with Dr. [**Last Name (STitle) 5180**] at 7:30 p.m., who had already
+     retracted the tube by 4 cm and planned a follow-up study.
+

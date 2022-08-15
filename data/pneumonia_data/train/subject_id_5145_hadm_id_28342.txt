@@ -1,0 +1,34 @@
+
+
+
+     DATE: [**3059-12-16**] 8:41 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8568**]
+     Reason: ? pulm congestion                                           
+     Admitting Diagnosis: SYNCOPE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       75 year old man with slow VT, A-V paced and hypotension now with increase O2 
+      requirement.                                               
+     REASON FOR THIS EXAMINATION:
+      ? pulm congestion                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 8:52 A.M. ON [**12-16**]
+     
+     HISTORY:  Hypotension and increasing oxygen requirement.
+     
+     IMPRESSION:  AP chest compared to [**7-1**] and [**3060-1-2**]:
+     
+     The continuity of the left ventricular lead cannot be assessed because of
+     cardiac motion.  The tip is unchanged in its position.  Also unchanged are the
+     courses of the intended right atrial transvenous pacer and right ventricular
+     transvenous pacer defibrillator lead whose proximal electrode extends from the
+     superior vena cava into the right atrium.  Mild interstitial and alveolar
+     abnormality in the right lung could represent asymmetric edema, early
+     pneumonia, or under the appropriate clinical circumstances, hemorrhage.
+     
+     There is no pneumothorax or appreciable pleural effusion.  Very large cardiac
+     silhouette is unchanged in size since [**Female First Name (un) 979**].
+     
+     Dr. [**First Name4 (NamePattern1) 8569**] [**Last Name (NamePattern1) **] and I discussed these findings at the time of dictation.
+

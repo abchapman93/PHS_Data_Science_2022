@@ -1,0 +1,5 @@
+T1	EVIDENCE_OF_PNEUMONIA 1133 1207	There is interval increase in opacity      involving the entire right lung
+T2	EVIDENCE_OF_PNEUMONIA 1225 1296	more patchy opacities      involving the left mid and lower lung zones.
+T3	EVIDENCE_OF_PNEUMONIA 1353 1461	findings could represent asymmetric pulmonary edema      Vs. an infectious process involving the right lung.
+T4	EVIDENCE_OF_PNEUMONIA 1494 1612	Findings are most consistent with asymmetric pulmonary edema. However,      superimposed infection cannot be excluded.
+T5	PNEUMONIA_DOC_YES 8 13	DATE:

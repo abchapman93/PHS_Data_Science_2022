@@ -1,0 +1,29 @@
+
+
+
+     DATE: [**3112-9-10**] 10:22 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 7903**]
+     Reason: please r/o pna or chf                                       
+     Admitting Diagnosis: TRACHEAL STENOSIS;NON SMALL CELL LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              80 year old man with h/o lung cancer c/b occluded bronchus s/p 
+      intubation, difficult to oxygenate on vent.
+     REASON FOR THIS EXAMINATION:
+      please r/o pna or chf                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  80-year-old man with lung cancer, occluded bronchus, difficult to
+     oxygenate.
+     
+     IMPRESSION:  AP chest compared to a series of chest radiographs since [**9-8**],
+     most recently [**9-10**] at 0412 hours:
+     
+     Endotracheal tube is in standard placement.  Nasogastric tube passes into the
+     stomach distended with air, and out of view.  Severe pulmonary edema in the
+     left lung is worsened over the past 24 hours.  The right lung is encased by
+     large right pleural effusion with aeration probably limited to the upper lobe.
+     Heart is normal size.  Right jugular line tip projects over the SVC.
+                                                                           
+
+             DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 6693**]

@@ -1,0 +1,29 @@
+
+
+
+     DATE: [**2948-10-10**] 7:32 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12144**]
+     Reason: Bilateral PNA                                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                74s/ year old male with bilat PNA.                                    
+       
+     REASON FOR THIS EXAMINATION:
+      Bilateral PNA                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old man with bilateral pneumonia.
+     
+     Portable AP view of the chest performed [**2948-10-10**] at 19:27 hours:  Comparison is
+     made with the prior study performed the same day at 00:06 hours.  An ET tube,
+     NG tube and left central venous catheter are again noted essentially unchanged
+     in position.  The heart size is within normal limits.  The aorta is calcified.
+     There has been no significant change in the patchy right-sided parenchymal
+     abnormalities, including air space opacities in the right mid and lower lung
+     zones.  Allowing for differences in patient rotation there has been no
+     significant change in the left perihilar infiltrate.  The extreme right
+     costophrenic angle is excluded and cannot be assessed.
+     
+     IMPRESSION:  Allowing for differences in patient rotation there has been no
+     significant change compared to prior study.
+

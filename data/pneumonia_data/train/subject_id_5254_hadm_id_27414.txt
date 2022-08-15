@@ -1,0 +1,35 @@
+
+
+
+     DATE: [**2834-4-20**] 12:13 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9649**]
+     Reason: infiltrate                                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with lethargy, rhonchi                                        
+     REASON FOR THIS EXAMINATION:
+      infiltrate                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP PORTABLE CHEST, [**2834-4-20**] AT 12:17 P.M.
+     
+     HISTORY:  Lethargy.
+     
+     COMPARISON:  [**2832-12-15**].
+     
+     FINDINGS:  Please note, the patient could not hold still for film per
+     technologist.
+     
+     A pacemaker overlies the right perihilar region with two contiguous leads
+     overlying the expected location of the right atrium and right ventricle.  Lung
+     volumes are markedly diminished.  The patient's chin overlies the lung apices.
+     The heart is massively enlarged but stable.  There is blunting of the right
+     costophrenic angle likely due to a small effusion.  Left effusion also cannot
+     be excluded.  There is retrocardiac opacity, likely atelectasis, although an
+     early developing pneumonia cannot be excluded.  No definite edema is seen.
+     
+     IMPRESSION:  Markedly limited examination due to multiple factors as above. No
+     definite consolidation, although there is minimal retrocardiac opacity which
+     may be atelectasis.  Right pleural effusion.  Question small pleural effusion.
+     Massive but stable cardiomegaly.
+

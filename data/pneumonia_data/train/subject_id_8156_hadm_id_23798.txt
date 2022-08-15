@@ -1,0 +1,23 @@
+
+
+
+     DATE: [**2533-6-14**] 9:28 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5260**]
+     Reason: assess failure                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with sob                                                        
+     REASON FOR THIS EXAMINATION:
+      assess failure                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Shortness of breath.
+     
+     CHEST, ONE VIEW:  No comparisons.  There is cardiomegaly.  There is perihilar
+     haziness and probable bilateral pleural effusions.  Underlying infiltrate
+     within both lower lobes cannot be excluded.  There is also a slight upper zone
+     redistribution of the pulmonary vasculature.  No pneumothorax.
+     
+     IMPRESSION:  Findings consistent with CHF, although underlying bilateral lower
+     lobe pneumonias cannot be excluded. Follow up.
+

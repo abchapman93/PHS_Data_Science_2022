@@ -1,0 +1,29 @@
+
+
+
+     DATE: [**3388-9-11**] 12:56 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4113**]
+     Reason: Please evaluate for infiltrate                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          89 year old woman h/o of CHF with cough                                     
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for infiltrate                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of CHF and cough.  Please evaluate for infiltrate.
+     
+     COMPARISON STUDY:  [**3388-9-9**].
+     
+     CHEST, SINGLE VIEW:  The heart is enlarged.  There is no pulmonary vascular
+     engorgement.  There is an increasing left-sided pleural effusion with
+     associated atelectasis.  Pneumonia at this location cannot be excluded.  Noted
+     is a density in the left upper lung zone related to costochondral
+     calcification.  Dual-lead pacemaker is seen.
+     
+     IMPRESSION:
+     
+     1. Cardiomegaly without CHF.
+     
+     2. Increasing left-sided pleural effusion with associated atelectasis.
+

@@ -1,0 +1,28 @@
+
+
+
+     DATE: [**3261-9-7**] 7:32 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6271**]
+     Reason: SOB, FEVER
+     Admitting Diagnosis: JAUNDICE;FEVER OF UNKNOWN ORIGEN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with hepatic insufficiency, sob and persistent fevers of 
+      unknown origin
+     REASON FOR THIS EXAMINATION:
+      please evaluate for infiltrate                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Hepatic insufficiency, shortness of breath, persistent fevers.
+     
+     COMPARISON: None.
+     
+     SUPINE AP VIEW CHEST: The patient is lordotic and rotated. Allowing for this,
+     the lungs are clear. Cardiac size appears to be within normal limits. The left
+     costophrenic angle is excluded. No right effusion is seen. No pneumothorax is
+     present. Pulmonary vascularity is within normal limits. There are multiple
+     surgical clips seen within the right axilla. Soft tissues and osseous
+     structures appear unremarkable.
+     
+     IMPRESSION: No focal consolidations or congestive heart failure identified.
+

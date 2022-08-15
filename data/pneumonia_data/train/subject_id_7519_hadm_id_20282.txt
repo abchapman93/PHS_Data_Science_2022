@@ -1,0 +1,28 @@
+
+
+
+     DATE: [**3191-10-23**] 2:50 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15217**]
+     Reason: Eval for pneumothorax s/p attempted line placement (RIJ) now
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with severe sob, multiple myeloma, likely RML pneumonia now
+      w/hypotension and hypoxia.
+     REASON FOR THIS EXAMINATION:
+      Eval for pneumothorax s/p attempted line placement (RIJ) now with scant
+      hemoptysis and hypoxia.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Evaluate for pneumothorax s/p right line placement attempt.
+     
+     Portable AP chest radiograph dated [**3191-10-23**] at 2:59 is compared to portable AP
+     chest radiograph dated [**3191-10-22**]. There is no pneumothorax. There is LV
+     enlargement with diffuse perihilar haze extending into the periphery with
+     diffuse parenchymal opacity. A left pleural effusion cannot be excluded. This
+     appearance suggests pulmonary edema. There is diffuse bony demineralization
+     and evidence of prior trauma to the right ribs and right humeral head that are
+     unchanged.
+     
+     IMPRESSION: 1) Pulmonary edema. No pneumothorax. The remainder of the exam is
+     unchanged compared to the prior.
+

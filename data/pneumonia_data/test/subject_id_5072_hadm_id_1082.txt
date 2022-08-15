@@ -1,0 +1,33 @@
+
+
+
+     DATE: [**3036-9-10**] 7:28 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8105**]
+     Reason: ?CHF.  This is a repeat request.                            
+     Admitting Diagnosis: LEUKEMIA;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        45 year old man with ALL and CMV enteritis, fevers, hypotension. now labored  
+      breathing with worsened breath sounds               
+     REASON FOR THIS EXAMINATION:
+      ?CHF.  This is a repeat request.                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  45-year-old man with acute lymphocytic leukemia, enteritis, fever.
+     
+     COMPARISON:  Comparison is made to the previous examination of a day earlier.
+     
+     CHEST, PORTABLE AP VIEW:  The left IJ lines remain in place.  The tip is in
+     the right atrium.  Since the previous study, there has been removal of the
+     right subclavian CVP line.  There is no evidence of pneumothorax.  There is
+     bilateral pleural effusions and bilateral pulmonary congestion at this time,
+     which is more pronounced than it was on the prior study.
+     
+     IMPRESSION
+     
+     1.  Worsening bilateral pulmonary vascular congestion associated with small
+         bilateral pleural effusions.
+     
+     2.  Interval removal of the right subclavian CVP line.
+     
+

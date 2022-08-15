@@ -1,0 +1,29 @@
+
+
+
+     DATE: [**3326-9-10**] 9:11 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 3443**]
+     Reason: ? pneumonia]
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old woman with advanced HIV/AIDS, h/o recurrent bacterial pneumonias,
+      now with high fever, cough with sputum.
+     REASON FOR THIS EXAMINATION:
+      ? pneumonia]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  HIV.  Fever and cough.
+     
+     FINDINGS:  PA and lateral chest dated [**3326-9-10**] is compared with prior
+     examination dated [**3326-5-30**].  The cardiac and mediastinal contours are
+     unchanged.  There has been interval development of bilateral small pleural
+     effusions, right greater than left.  There is diffuse interstitial opacity
+     with areas at the bilateral bases of greater confluence suggestive of air
+     space disease.  Pulmonary vascularity appears unremarkable.  The osseous
+     structures appear unremarkable.  Prominent nipple shadows are again noted.
+     
+     IMPRESSION:  Diffuse interstitial pneumonitis with areas of air space opacity
+     at bilateral bases and small bilateral pleural effusions.  In the appropriate
+     clinical setting this is compatible with appearance of PCP [**Name Initial (PRE) 3444**].  Other
+     atypical pathogens cannot be excluded.
+

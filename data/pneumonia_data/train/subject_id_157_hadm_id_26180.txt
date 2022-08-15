@@ -1,0 +1,31 @@
+
+
+
+     DATE: [**3128-5-28**] 10:42 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3192**]
+     Reason: G-tube placement,                                           
+     Admitting Diagnosis: SUBDURAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       80 year old man with found with subdural hematoma, poor appetite               
+                                        
+     REASON FOR THIS EXAMINATION:
+      G-tube placement,                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE SEMI-UPRIGHT CHEST OF [**3128-5-28**].
+     
+     INDICATION:  G-tube placement.
+     
+     A feeding tube is coiled within the intrathoracic esophagus, with the distal
+     tip directed cephalad in the cervical region.  Cardiac and mediastinal
+     contours are within normal limits for technique.  There is a layering left
+     pleural effusion and adjacent left basilar atelectasis.  Calcified plaque is
+     present along the left hemidiaphragm.  The right lung is incompletely imaged
+     on this study and there is a questionable area of abnormality partially
+     obscuring the mid portion of the right hemidiaphragm, incompletely evaluated.
+     
+     IMPRESSION:  Coiling of feeding tube as described.  Findings communicated to
+     Dr. [**Last Name (STitle) 3164**] by telephone on [**3128-5-28**].
+                                                                           
+

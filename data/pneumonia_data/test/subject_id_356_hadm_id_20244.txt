@@ -1,0 +1,30 @@
+
+
+
+     DATE: [**3233-9-7**] 4:29 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9302**]
+     Reason: post-op, EF < 10%                                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       58 year old man s/p biventricular pacemaker/ICD placement.                     
+       
+     REASON FOR THIS EXAMINATION:
+      post-op, EF < 10%                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST X-RAY.
+     
+     CLINICAL INDICATION:  58 year old man status post biventricular pacemaker/ICD
+     placement.
+     
+     A single frontal radiograph of the chest was obtained and compared to the
+     next-prior study dated [**3233-8-23**].  The patient is intubated and the
+     endotracheal tube has its tip approximately 8 cm above the carina.  Surgical
+     staples overlie the cervical region.  Again seen is an AICD with electrodes
+     unchanged in position.  The patient is status post median sternotomy, CABG and
+     MVR.  There is pulmonary vascular congestion along with a left-sided pleural
+     effusion and patchy atelectasis in the left lower lobe.  The congestive heart
+     failure has slightly worsened since the prior study.
+     
+     IMPRESSION:  Stable cardiomegaly with worsening congestive heart failure.
+

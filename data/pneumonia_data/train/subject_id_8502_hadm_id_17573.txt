@@ -1,0 +1,33 @@
+
+
+
+     DATE: [**2596-5-10**] 5:45 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8395**]
+     Reason: please eval lung fields; thanks                             
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          51 year old man with pancr cysts, recent SOB starting 1 day ago, also s/p 
+      right thoracentesis. 
+     REASON FOR THIS EXAMINATION:
+      please eval lung fields; thanks                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  51-year-old male with pancreatic cysts, now status post right
+     thoracentesis with dyspnea.
+     
+     COMPARISON:  Chest radiographs, [**5-8**] through [**2596-5-9**].
+     
+     SUPINE PORTABLE CHEST:  Endotracheal tube tip is 5 cm above the carina.  Left
+     subclavian central line tip is in the proximal SVC.  Compared to the earliest
+     chest film on [**5-8**], there has been progressive mediastinal widening and
+     increase in size of the cardiac silhouette concerning for elevated central
+     venous pressure and pericardial effusion.  Given differences in patient
+     positioning compared to [**5-9**], there is probable decrease in size of right
+     pleural effusion which is now moderate to large.  There remains a persistent
+     small left pleural effusion.  Prominent interstitial markings are compatible
+     with mild interstitial edema.
+     
+     The results of this study were discussed with Dr. [**First Name4 (NamePattern1) 792**] [**Last Name (NamePattern1) 8396**] on [**2596-5-10**].
+     
+

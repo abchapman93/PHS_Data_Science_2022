@@ -1,0 +1,25 @@
+
+
+
+     DATE: [**2892-10-1**] 7:35 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12169**]
+     Reason: interval change                                             
+     Admitting Diagnosis: METASTATIC LUNG CANCER;PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 year old man with met lung cancer now with sob                              
+                                
+     REASON FOR THIS EXAMINATION:
+      interval change                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, 6:47 A.M., ON [**10-1**] 
+     
+     INDICATION:  Metastatic lung CA.  Shortness of breath.
+     
+     FINDINGS:  Compared with the study of 9/19, there has been further interval
+     consolidation of the right mid lung infiltrate.
+     
+     Otherwise, no obvious significant interval changes.
+                                                                           
+

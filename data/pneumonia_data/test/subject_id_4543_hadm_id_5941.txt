@@ -1,0 +1,31 @@
+
+
+
+     DATE: [**2913-2-19**] 6:04 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2841**]
+     Reason: eval for chf, line placement                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with right subclavian, MI                                       
+     REASON FOR THIS EXAMINATION:
+      eval for chf, line placement                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right subclavian line placement after myocardial infarction.
+     
+     FINDINGS:
+     
+     A right subclavian line is seen extending to the proximal SVC.  The distal tip
+     of this central line is not well seen.  The heart size and mediastinal
+     contours are normal.  The lungs are clear with no parenchymal consolidation,
+     failure, pneumothorax, or pleural effusion.  No osseous abnormalities are
+     seen.
+     
+     IMPRESSION: 1)  A right subclavian line passes into the proximal SVC.  The
+     distal tip of the central line is not well seen.  A repeat chest radiograph
+     should be performed.
+     
+     2)  No evidence of pneumothorax, effusion, or CHF.
+     
+     This finding was called to dr [**First Name4 (NamePattern1) 1016**] [**Last Name (NamePattern1) 2842**] on the night of [**2913-2-19**].
+

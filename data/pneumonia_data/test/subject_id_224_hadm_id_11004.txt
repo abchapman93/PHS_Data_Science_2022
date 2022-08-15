@@ -1,0 +1,27 @@
+
+
+
+     DATE: [**3025-2-17**] 2:34 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 241**]
+     Reason: Evaluate for infiltrate                                     
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with history of MDS, p/w cough and aspiration event.            
+     REASON FOR THIS EXAMINATION:
+      Evaluate for infiltrate                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PA AND LATERAL VIEWS OF THE CHEST
+     
+     REASON FOR EXAM:  Cough, aspiration event, history of MDS
+     
+     There are no prior studies available for comparison.
+     
+     FINDINGS:  Cardiomediastinal contour is unremarkable.  Ill-defined multifocal
+     opacities are in the left upper lobe and in both bases, right greater than
+     left.  Small bilateral pleural effusions are greater in the left side.  There
+     is no pneumothorax.
+     
+     IMPRESSION:  Multifocal pneumonia.
+

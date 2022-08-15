@@ -1,0 +1,27 @@
+
+
+
+     DATE: [**3412-10-13**] 5:36 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 12615**]
+     Reason: Pneumonia? Failure?                                         
+     Admitting Diagnosis: THROMBOCYTOPENIA;ANEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with MDS, now with fever, productive cough, and bilateral 
+      crackles. 
+     REASON FOR THIS EXAMINATION:
+      Pneumonia? Failure?                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS: Fever, productive cough with bilateral crackles.  R/O pneumonia.
+     
+     PA AND LATERAL CHEST:  The heart shows slight LV enlargement and there is
+     evidence of some upper zone redistribution and blurring of vascular detail at
+     the bases suggestive of mild LV decompinsation. In addition, there is evidence
+     of atelectasis/infiltrate in the posterior basal segment of the left lower
+     lobe behind the heart.  This could be due to aspiration versus pneumonia.
+     Followup examination is recommended to evaluate this further.
+     
+     IMPRESSION: Possible slight LV decompensation.  Aspiration versus pneumonia in
+     posterior basal segment of left lower lobe.
+

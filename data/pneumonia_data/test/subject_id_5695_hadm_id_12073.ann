@@ -1,0 +1,4 @@
+T1	EVIDENCE_OF_PNEUMONIA 1344 1415	IMPRESSION:            Focal opacity in the left lower lobe posteriorly
+T2	EVIDENCE_OF_PNEUMONIA 1456 1515	this could represent an atypical presentation of pneumonia.
+T3	EVIDENCE_OF_PNEUMONIA 810 878	There is a large (7.5 cm) opacity in the left lower lobe posteriorly
+T4	PNEUMONIA_DOC_YES 8 13	DATE:

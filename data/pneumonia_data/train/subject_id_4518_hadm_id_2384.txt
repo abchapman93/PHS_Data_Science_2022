@@ -1,0 +1,32 @@
+
+
+
+     DATE: [**2603-7-21**] 11:28 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2628**]
+     Reason: Sob                                                         
+     Admitting Diagnosis: MI,CHF
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old woman with SOB, CHF, NSTEMI , acute SOB                            
+                  
+     REASON FOR THIS EXAMINATION:
+      Sob                                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Short of breath and congestive heart failure and non ST elevation
+     MI.
+     
+     COMPARISON:  [**2603-7-21**].
+     
+     TECHNIQUE:   Single AP portable upright chest.
+     
+     COMMENT:  The heart size and mediastinal contours are unchanged.  There is
+     marked interval increase in congestive heart failure, with patchy bilateral
+     and perihilar opacities.  Increased size in bilateral pleural effusions, left
+     greater than right.  No pneumothorax.  The surrounding osseous structures are
+     unchanged.
+     
+     IMPRESSION:   Interval increase in congestive heart failure and bilateral
+     pleural effusions.  Stable cardiomegaly.
+     
+

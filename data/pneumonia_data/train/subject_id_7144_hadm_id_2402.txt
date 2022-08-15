@@ -1,0 +1,34 @@
+
+
+
+     DATE: [**2706-8-12**] 10:46 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11345**]
+     Reason: eval for pna, chf, effusions                                
+     Admitting Diagnosis: LIVER FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old woman with etoh abuse hx, UGIB; ? thick sputum and hx of pna at 
+      osh.
+     REASON FOR THIS EXAMINATION:
+      eval for pna, chf, effusions                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST
+     
+     INDICATION:  Alcohol abuse history.  Upper GI bleed. Thick sputum and history
+     of pneumonia at outside hospital. Check for pneumonia, CHF, effusion.
+     
+     FINDINGS:  A single AP supine image. Endotracheal tube is noted with its tip
+     satisfactorily positioned below the thoracic inlet. The lungs are poorly
+     inflated and there is elevation of the right diaphragm. There is also evidence
+     of some collapse/consolidation of the basal segments of the left lower lobe
+     behind the heart. Some atelectatic changes are also noted in the right lower
+     lobe and in the lingula. A small effusion cannot be ruled out on the left
+     side. No comparison studies are available.
+     
+     IMPRESSION:
+     1) Consolidation/collapse of the left lower lobe, this could be pneumonic.
+     2) Possible small left effusion.
+     3) Endotracheal tube in good position.
+     4) No evidence of CHF.
+

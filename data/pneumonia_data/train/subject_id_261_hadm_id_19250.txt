@@ -1,0 +1,26 @@
+
+
+
+     DATE: [**3197-12-10**] 6:56 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2280**]
+     Reason: follow diuresis of chf.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with esoph CA, chf
+     REASON FOR THIS EXAMINATION:
+      follow diuresis of chf.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Evaluate CHF.  Patient with esophageal CA.
+     
+     AP radiograph dated [**3197-12-10**] is compared with the AP radiograph dated [**3197-12-9**].
+     
+     There has been no significant change in the appearance of the radiograph.
+     There are probable bilateral pleural effusions, though the right costophrenic
+     angle is not included in this radiograph.  There is left lower lobe
+     consolidation/collapse.  There is bilateral lower zone and mid zone
+     infiltrate.  The heart size is slightly enlarged.
+     
+     IMPRESSION:  No significant change compared with [**3197-12-9**].  Bilateral pulmonary
+     opacities involving the lower and mid lung zones.
+

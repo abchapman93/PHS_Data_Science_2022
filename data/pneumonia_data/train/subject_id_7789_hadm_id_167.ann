@@ -1,0 +1,4 @@
+T1	EVIDENCE_OF_PNEUMONIA 1363 1431	Presumed right upper lobe pneumonia or other      air-space disease.
+T2	EVIDENCE_OF_PNEUMONIA 923 998	vague density overlying the right upper lobe, suggesting air-space disease.
+T3	EVIDENCE_OF_PNEUMONIA 1119 1187	I cannot exclude consolidation in the obscured      left lower lobe.
+T4	PNEUMONIA_DOC_YES 8 13	DATE:

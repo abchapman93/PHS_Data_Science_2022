@@ -1,0 +1,35 @@
+
+
+
+     DATE: [**2977-1-16**] 11:34 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12264**]
+     Reason: eval for position of SVC, ETT, OG tube.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old man with severe CHF from ischemic cardiomyopathy, intubated for
+      resp distress, s/p RIJ placement, s/p OG tube placement.
+     REASON FOR THIS EXAMINATION:
+      eval for position of SVC, ETT, OG tube.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  65 year old man with severe CHF, intubated for respiratory
+     distress s/p right IJ placement, ETT placement.
+     
+     A single AP portable radiograph of the chest dated [**2977-1-16**] compared with prior
+     AP portable on [**2977-1-16**] at 1637.
+     
+     FINDINGS:  There is stable appearance of the cardiomediastinal and hilar
+     contours.  There has been significant interval improvement in the appearance
+     of the bilateral patchy and confluent air space opacities.  There are no
+     pleural effusions however, the extreme left costophrenic angle has been
+     excluded from the study.  A dual lead ICD is seen with tips in the right
+     atrium and right ventricle.  An ETT tip is seen approximately 5 cm above the
+     carina.  A right-sided central venous catheter is seen with its tip in the
+     upper SVC.  A NGT is seen with its tip in the proximal stomach and sideport at
+     the GE junction.  Soft tissue and osseous structures are unremarkable.
+     
+     IMPRESSION:
+     1)  Interval improvement in the appearance of the CHF.
+     2)  Sideport of NGT at GE junction, recommend advancement by [**2-9**] inches.
+     3)  All other lines and tubes in satisfactory positioning.
+

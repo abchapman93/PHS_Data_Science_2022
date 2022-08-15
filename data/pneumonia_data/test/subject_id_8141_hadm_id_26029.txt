@@ -1,0 +1,37 @@
+
+
+
+     DATE: [**2806-4-23**] 9:48 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5148**]
+     Reason: Please evaluate for infiltrates, fluid overload             
+     Admitting Diagnosis: HEMOPTYSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man transferred from OSH with hemoptysis and report of possible PNA 
+      and or CHF, currently intubated.
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for infiltrates, fluid overload                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAMINATION:  AP chest.
+     
+     INDICATION:  Hemoptysis.  Pneumonia.
+     
+     Single AP view of the chest is obtained [**2806-4-23**] at 2155 hours.  No prior films
+     are available for comparison.
+     
+     The patient is intubated with the tip of the ET tube approx 7.5 cm above
+     the carina. There is a right subclavian line with the tip in the SVC. A ng
+     tube has its tip in the gastric fundus.
+     
+     The heart is likely top normal in size. There is a patchy opacity in the right
+     mid lung field and to a lesser extent in the right lower lobe consistent with
+     pneumonia.  In addition, there is increased density in the right side adjacent
+     to the heart border consistent with a degree of right lower lobe collapse.
+     Right pleural effusion and likely small left pleural effusion are present.
+     There is mild pulmonary vascular congestion.
+     
+     IMPRESSION:
+     Without prior comparison films, I feel that the findings likely represent
+     multifocal pneumonia with likely superimposed fluid overload/early failure.
+

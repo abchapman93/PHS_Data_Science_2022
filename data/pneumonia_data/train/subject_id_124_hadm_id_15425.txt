@@ -1,0 +1,31 @@
+
+
+
+     DATE: [**3297-7-24**] 10:58 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7285**]
+     Reason: 69 year old man with recent stroke, dysphagia, fevers       
+     Admitting Diagnosis: CVA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with recent stroke, dysphagia, fevers                           
+     REASON FOR THIS EXAMINATION:
+      69 year old man with recent stroke, dysphagia, fevers                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP PORTABLE CHEST:
+     
+     INDICATION: 69 y/o male with recent stroke, dysphasia and now with fevers. R/O
+     pneumonia.
+     
+     Comparison is made to the prior examination of [**3297-6-21**].
+     
+     FINDINGS: The patient is s/p median sternotomy and right thoracotomy.
+     Elevation of the right hila and right sided volume loss is related to the
+     patient's known history of cancer resection, presumably within the right upper
+     lobe. There is hyperinflation of the lungs with flattening of the diaphragms
+     consistent with underlying emphysema. The pulmonary vasculature is normal. The
+     heart is normal in size. No focal opacities are seen to suggest aspiration
+     and/or pneumonia. No pleural effusions. No pneumothorax.
+     
+     IMPRESSION: No radiographic evidence of aspiration and/or pneumonia.
+

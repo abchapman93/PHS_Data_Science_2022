@@ -1,0 +1,27 @@
+
+
+
+     DATE: [**3079-3-6**] 8:03 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1455**]
+     Reason: lead placement, r/o PTX                                     
+     Admitting Diagnosis: V-TACH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       72 year old man with newly replaced R sided ICD                                
+     REASON FOR THIS EXAMINATION:
+      lead placement, r/o PTX                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  72 y/o man with newly placed right-sided ICD.  Rule out
+     pneumothorax.
+     
+     AP SUPINE SINGLE VIEW OF THE CHEST is compared to [**3076-6-14**].
+     
+     There is interval placement of a right chest wall ICD with only one lead,
+     which is located in the right ventricle. There are ICD pacing wires in the
+     left chest wall in unchanged when compared to the previous study.  The left
+     chest wall pacemaker seen previously has been removed.  Pulmonary vascularity
+     and lung fields are otherwise clear; however, the costophrenic angles are not
+     included.  There is stable cardiomegaly.  There is no evidence of
+     pneumothorax.
+

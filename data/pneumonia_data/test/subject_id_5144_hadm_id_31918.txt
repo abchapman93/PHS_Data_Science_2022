@@ -1,0 +1,26 @@
+
+
+
+     DATE: [**3139-6-12**] 8:10 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8561**]
+     Reason: pls eval                                                    
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with exsanguinating upper GI bleed                            
+     REASON FOR THIS EXAMINATION:
+      pls eval                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST AP:
+     
+     HISTORY: 73 y/o woman with upper GI bleed. Evaluate chest.
+     
+     FINDINGS: Single frontal radiograph, without comparison, demonstrates
+     confluent opacities with air bronchograms in the lower lungs, possibly
+     secondary to aspiration. The ETT is 2.7 cm above the carina. The gastric tube
+     terminates below field of imaging within the mid abdomen. The pulmonary
+     vasculature is prominent even when accounting for low lung volumes, and is
+     accompanied by vascular indistinctness and subtle interstitial opacities,
+     likely due to fluid overload.
+

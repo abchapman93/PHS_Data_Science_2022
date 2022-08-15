@@ -1,0 +1,29 @@
+
+
+
+     DATE: [**3469-9-13**] 6:54 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 12325**]
+     Reason: Assess for mediastinal widening                             
+     Admitting Diagnosis: NON-Q-WAVE MYOCARDIAL INFARCTION\CARDIAC CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with NSTEMI here for cath                                     
+     REASON FOR THIS EXAMINATION:
+      Assess for mediastinal widening                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  82-year-old female with non-ST elevation MI here for cardiac
+     catheterization.  Evaluate for mediastinal widening.
+     
+     COMPARISON:  PA and lateral chest x-ray dated [**3462-8-14**].
+     
+     PA AND LATERAL CHEST X-RAY:  The cardiac silhouette and mediastinal contours
+     are normal.  There are dense intramural aortic calcifications.  Prominence of
+     the right hilum may does not correlate with a corresponding abnormality on
+     the lateral film and is likely related to overlapping vessels. The pulmonary
+     vasculature is normal. There is no pneumothorax. Both lungs are clear without
+     consolidations or effusions. The surrounding soft tissue and osseous
+     structures are unremarkable.
+     
+     IMPRESSION:  No acute cardiopulmonary process.
+

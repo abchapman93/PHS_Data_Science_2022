@@ -1,0 +1,5 @@
+T1	EVIDENCE_OF_PNEUMONIA 1663 1733	IMPRESSION: Bilateral parenchymal opacities consistent with pneumonia.
+T2	EVIDENCE_OF_PNEUMONIA 1146 1197	There are bilateral pulmonary parenchymal opacities
+T3	EVIDENCE_OF_PNEUMONIA 1591 1651	There is collapse/consolidation of      the left lower lobe.
+T4	EVIDENCE_OF_PNEUMONIA 1430 1472	increased opacity in both upper      lobes
+T5	PNEUMONIA_DOC_YES 8 13	DATE:

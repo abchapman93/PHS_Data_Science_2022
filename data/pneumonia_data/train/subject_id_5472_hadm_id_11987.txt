@@ -1,0 +1,27 @@
+
+
+
+     DATE: [**3394-4-11**] 1:15 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 11426**]
+     Reason: confirm left subclavian tlc placement                       
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       77 year old man with CHF, respiratory failure now s/p left subclaviant tlc 
+      placement                                 
+     REASON FOR THIS EXAMINATION:
+      confirm left subclavian tlc placement                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Line placement.
+     
+     A left subclavian catheter has been inserted terminating in the mid SVC. 
+     There is no apparent pneumothorax.  A right IJ line, NGT, and ETT are
+     unchanged as are the parenchymal changes in the lungs compared to the earlier
+     chest x-ray this morning at 8 a.m.
+     
+     IMPRESSION:  No pneumothorax following left subclavian catheter insertion.
+     
+     Otherwise, no change in the chest.
+                                                                           
+

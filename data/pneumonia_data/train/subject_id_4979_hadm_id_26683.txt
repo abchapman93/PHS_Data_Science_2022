@@ -1,0 +1,27 @@
+
+
+
+     DATE: [**3036-7-14**] 10:56 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7286**]
+     Reason: please eval for interval change, especially in RLL but also 
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old man with cirrhosis, vol overload, Afib with RVR, recent RLL 
+      collapse on abx, who diuresed overnight but has worsening O2 requirement
+     REASON FOR THIS EXAMINATION:
+      please eval for interval change, especially in RLL but also fluid status        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Cirrhosis, volume overload, worsening hypoxia.
+     
+     CHEST, ONE VIEW:  Comparison with [**3036-7-9**].  Bilateral pleural effusions,
+     right greater than left, probably unchanged, given technique.  Large cardiac
+     shadow also unchanged.  Pulmonary hila are full, but there is no definite
+     evidence of pulmonary edema.  No pneumothorax.  Osseous structures are
+     unchanged on this poorly penetrated film.
+     
+     IMPRESSION:  No significant interval change in appearance of bilateral pleural
+     effusions, right larger than left, or cardiomegaly.
+                                                                           
+

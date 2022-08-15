@@ -1,0 +1,30 @@
+
+
+
+     DATE: [**3128-6-21**] 11:59
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 29**] # [**Clip Number (Radiology) 3200**]
+     Reason: ET placement                                                
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             80 year old man with found with sepsis                                   
+         
+     REASON FOR THIS EXAMINATION:
+      ET placement                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 11:08 [**Initials (NamePattern4) 1442**] [**6-21**]
+     
+     HISTORY:  Sepsis.  Check ET tube placement.
+     
+     IMPRESSION:  AP chest compared to [**6-21**]:
+     
+     Bibasilar consolidation has increased substantially, particularly on the
+     right, now accompanied by a small-to-moderate pleural effusion.  There is some
+     pulmonary edema, heart size is normal, moderate azygous distention is stable,
+     and the lung findings are concerning for progressive pneumonia.  ET tube and
+     right internal jugular line are in standard placements.  Nasogastric tube ends
+     in moderately distended stomach.  Note is made of severe pagetoid changes in
+     the right shoulder.
+                                                                           
+

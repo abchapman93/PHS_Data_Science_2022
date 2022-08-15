@@ -1,0 +1,28 @@
+
+
+
+     DATE: [**3075-3-10**] 11:38 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2226**]
+     Reason: CHF and pneumonia                                           
+     Admitting Diagnosis: HYPOXIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             83 year old man with sob and chf and pneumonia                           
+     REASON FOR THIS EXAMINATION:
+      CHF and pneumonia                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath, CHF, and pneumonia.
+     
+     COMPARISON:  [**3075-3-8**].
+     
+     FINDINGS:  ET tube, right internal jugular central venous line, and NG tube
+     appear unchanged.  Mild cardiomegaly and calcified aorta are unchanged.  Since
+     the prior study, the patchy bilateral areas of consolidation have increased,
+     most notably in the left lower lobe.  Perihilar opacities consistent with CHF
+     are again noted.  There are small bilateral pleural effusions.  There is no
+     pneumothorax.  Emphysematous changes at the apices are again noted.
+     
+     IMPRESSION:  Emphysema with pulmonary edema and multifocal
+     pneumonia/aspiration, worse since the previous study.
+
