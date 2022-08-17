@@ -342,3 +342,6 @@ hint_systolic_v_diastolic = QuizHint(hints=[
 quiz_missing_bp = MultipleChoiceQuiz(answer="The results weren't measured or entered correctly.", options=["The patient didn't have any blood pressure.",
 "The blood pressure was normal.",
                                                            "The results weren't measured or entered correctly.",])
+
+
+quiz_coalesce_helloworld = MultipleChoiceQuiz(answer="'hello'", options=["'hello'", "'world'", "NULL"])

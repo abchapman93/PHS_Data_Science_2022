@@ -32,6 +32,12 @@ quiz2 = MultipleChoiceQuiz(
     answer="float"
 )
 
+hint_click_button = QuizHint("Click the 'Get hint' button to see the next hint and 'Hide hints' to remove them.",
+        hints=[
+            widgets.HTML("This will be the first hint."),
+            widgets.HTML("""Sometimes there's a second.</br> <img src="./media/they_dont_know.jpeg"></img>"""),
+        ])
+
 quiz_keyword_positional_args = SelectMultipleQuiz("Which of the following are valid calls to print_name? (ie., they won't throw an error)",
                      answer={
                          """print_name("Alec", "Chapman")""",
@@ -178,9 +184,11 @@ quiz_x3 = MultipleChoiceQuiz(answer="An error would be raised.", options=[
 
 quiz_largest_idx_x = FreeTextTest(answer="2")
 
-quiz_second_to_last_x = MultipleChoiceQuiz(answer="All of the above.", options=[ "a)", "b)", "c)", "All of the above."])
+quiz_second_to_last_x = MultipleChoiceQuiz(answer="All of the above.", options=[ "a)", "b)", "c)", "All of the above."],
+                                           shuffle_answer=False)
 
-quiz_values_of_2 = MultipleChoiceQuiz(answer="a), b), and d)", options=["a), b), and d)", "a) and c)", "b)", "c)", "All of them"])
+quiz_values_of_2 = MultipleChoiceQuiz(answer="a), b), and d)", options=["a), b), and d)", "a) and c)", "b)", "c)", "All of them"],
+                                      shuffle_answer=False)
 
 test_x_sub1 = ValueTest(expected=[2, 3])
 
@@ -201,6 +209,8 @@ def test_waiting_list_jacob_validation_func(waiting_list):
 test_waiting_list_jacob = ValueTest(validation_func=test_waiting_list_jacob_validation_func)
 
 test_next_patient3 = ValueTest("Jacob")
+
+test_len_waiting_list = FreeTextTest(answer=["4", "four"])
 
 test_list_a_added_to_b = ValueTest(expected=["a", "b", "c", 1, 2, 3])
 
@@ -334,7 +344,7 @@ def validate_decide_to_drive2(func):
                 print()
 test_decide_to_drive2 = FunctionTest(validation_func=validate_decide_to_drive2)
 
-def test_decide_to_bring_umbrella_validation_func(func):
+def test_decide_to_drive_validation_func(func):
     import inspect
     arg_spec = inspect.getfullargspec(func)
     if len(arg_spec.args) > 1:
@@ -351,5 +361,4 @@ def test_decide_to_bring_umbrella_validation_func(func):
         return False
     print("That is correct!")
     return True
-test_decide_to_bring_umbrella = ValueTest(validation_func=test_decide_to_bring_umbrella_validation_func)
-
+test_decide_to_drive = ValueTest(validation_func=test_decide_to_drive_validation_func)

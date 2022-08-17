@@ -484,3 +484,5 @@ def add_document_classifications(df, docs, classify_pna):
     df["doc"] = docs
     return df
 
+quiz_type_text0 = MultipleChoiceQuiz("""What would be the value of <p style="font-family:courier";>text[0]</p>""",
+                  options=["'Chief'", "'C'"], answer="'C'")
