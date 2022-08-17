@@ -266,7 +266,7 @@ age_at_discharge_mortality_quiz = SelectMultipleQuiz("What are the two age group
 
 test_in_hospital_mortality = ValueTest(validation_func=test_in_hospital_mortality_validation_func)
 
-pna_prop = MultipleChoiceQuiz("What is the proportion of patients had pneumonia? Round to 4 decimal points.",
+pna_prop = MultipleChoiceQuiz("What is the proportion of patients had pneumonia?",
             answer=0.2, options=[0.8, 0.33, 0.66])
 
 time_to_death_viz_hint = QuizHint(description="Some hints for visualizing time to death.",
@@ -295,3 +295,4 @@ in_hospital_mortality_rr_interpretation_quiz = MultipleChoiceQuiz("The interpret
                    answer=" 1.27 times more likely",
                    options=["1.27 times less likely", "Similarly likely"]
                   )
+
